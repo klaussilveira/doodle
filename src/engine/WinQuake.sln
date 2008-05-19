@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winquake", "WinQuake.vcproj", "{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		GL Debug|Win32 = GL Debug|Win32
+		GL Release|Win32 = GL Release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.Debug|Win32.Build.0 = Debug|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.GL Debug|Win32.ActiveCfg = GL Debug|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.GL Debug|Win32.Build.0 = GL Debug|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.GL Release|Win32.ActiveCfg = GL Release|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.GL Release|Win32.Build.0 = GL Release|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.Release|Win32.ActiveCfg = Release|Win32
+		{4EEBEE8F-79C3-420F-BFC1-F3953C63AAA8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

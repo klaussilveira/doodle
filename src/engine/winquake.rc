@@ -1,0 +1,17 @@
+#include "resource.h"
+#include <windows.h>
+
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+IDI_ICON2               ICON    DISCARDABLE     "doodle.ico"
+
+IDD_DIALOG1 DIALOGEX 0, 0, 62, 21
+STYLE DS_MODALFRAME | DS_SETFOREGROUND | DS_3DLOOK | DS_CENTER | WS_POPUP
+EXSTYLE WS_EX_TOOLWINDOW | WS_EX_CLIENTEDGE
+FONT 16, "Verdana", 0, 0, 0x1
+BEGIN
+    CTEXT           "Starting Doodle...",IDC_STATIC,4,6,54,8
+END
+

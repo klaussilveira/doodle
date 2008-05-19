@@ -1,0 +1,131 @@
+Source file: progs.src
+outputfile: ../progs.dat
+compiling defs.qc
+compiling subs.qc
+compiling fight.qc
+compiling ai.qc
+compiling combat.qc
+compiling items.qc
+compiling weapons.qc
+compiling world.qc
+compiling client.qc
+compiling player.qc
+compiling monsters.qc
+compiling doors.qc
+compiling buttons.qc
+compiling triggers.qc
+compiling plats.qc
+compiling misc.qc
+compiling ogre.qc
+compiling demon.qc
+compiling shambler.qc
+compiling knight.qc
+knight.qc:32: warning: Duplicate macro defined (attackb1)
+compiling soldier.qc
+compiling wizard.qc
+compiling dog.qc
+compiling zombie.qc
+compiling boss.qc
+compiling tarbaby.qc
+compiling hknight.qc
+compiling fish.qc
+compiling shalrath.qc
+compiling enforcer.qc
+compiling oldone.qc
+oldone.qc:29: warning: Duplicate macro defined (shake12)
+Recognised progs as regular Quake
+Progs should run on any Quake executor
+defs.qc:401: warning: empty_float  no references
+defs.qc:417: warning: wad  no references
+defs.qc:428: warning: light_lev  no references
+defs.qc:501: warning: dest  no references
+defs.qc:548: warning: waitmax  no references
+defs.qc:549: warning: distance  no references
+defs.qc:550: warning: volume  no references
+fight.qc:298: warning: chance  no references
+ai.qc:37: warning: current_yaw  no references
+ai.qc:476: warning: mtemp  no references
+ai.qc:679: warning: delta  no references
+ai.qc:680: warning: axis  no references
+ai.qc:681: warning: direct  no references
+ai.qc:681: warning: ang_rint  no references
+ai.qc:681: warning: ang_floor  no references
+ai.qc:681: warning: ang_ceil  no references
+items.qc:152: warning: amount  no references
+items.qc:871: warning: stemp  no references
+items.qc:872: warning: best  no references
+items.qc:1007: warning: stemp  no references
+items.qc:1008: warning: best  no references
+items.qc:1080: warning: stemp  no references
+items.qc:1081: warning: best  no references
+weapons.qc:91: warning: mpuff  no references
+weapons.qc:376: warning: mpuff  no references
+weapons.qc:551: warning: mpuff  no references
+weapons.qc:630: warning: old  no references
+weapons.qc:646: warning: old  no references
+weapons.qc:674: warning: hit_z  no references
+weapons.qc:677: warning: rand  no references
+weapons.qc:717: warning: rand  no references
+world.qc:324: warning: e  no references
+client.qc:295: warning: pos  no references
+client.qc:704: warning: old_self  no references
+client.qc:739: warning: start  no references
+client.qc:739: warning: end  no references
+client.qc:911: warning: mspeed  no references
+client.qc:911: warning: aspeed  no references
+client.qc:912: warning: r  no references
+client.qc:1123: warning: mspeed  no references
+client.qc:1123: warning: aspeed  no references
+client.qc:1124: warning: r  no references
+monsters.qc:51: warning: ent  no references
+monsters.qc:51: warning: otemp  no references
+monsters.qc:51: warning: stemp  no references
+monsters.qc:71: warning: stemp  no references
+monsters.qc:72: warning: etemp  no references
+buttons.qc:88: warning: gtemp  no references
+buttons.qc:88: warning: ftemp  no references
+triggers.qc:2: warning: stemp  no references
+triggers.qc:2: warning: otemp  no references
+triggers.qc:2: warning: old  no references
+triggers.qc:224: warning: junk  no references
+plats.qc:150: warning: t  no references
+misc.qc:447: warning: vtmp1  no references
+misc.qc:447: warning: modi  no references
+ogre.qc:92: warning: mpuff  no references
+demon.qc:280: warning: vec  no references
+soldier.qc:141: warning: r  no references
+dog.qc:306: warning: vec  no references
+zombie.qc:164: warning: mpuff  no references
+ 40868 strofs (of 1000000)
+ 20636 numstatements (of 524288)
+  2118 numfunctions (of 16384)
+  2043 numglobaldefs (of 32768)
+   218 numfielddefs (195 unique) (of 2048)
+  4264 numpr_globals (of 65536)
+Writing ../progs.dat
+317536 TOTAL SIZE
+Not writing linenumbers file due to conflicting optimisation
+225 unique precache_sounds
+ 93 unique precache_models
+ 75 unique precache_files
+Compile Complete
+
+optres_shortenifnots 116
+optres_overlaptemps 7424
+optres_noduplicatestrings 22147
+optres_constantarithmatic 19
+optres_nonvec_parms 3794
+optres_constant_names 8280
+optres_constant_names_strings 5373
+optres_precache_file 1032
+optres_filenames 269
+optres_assignments 408
+optres_unreferenced 68
+optres_locals 23
+optres_function_names 552
+optres_dupconstdefs 101
+optres_return_only 36
+optres_compound_jumps 154
+optres_stripfunctions 402
+numtemps 117
+63 warnings
